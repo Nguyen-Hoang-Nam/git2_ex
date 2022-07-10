@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/nguyenhoangnam/.local/share/dev/git2_ex/native/libgit2",
+  "command": "/usr/bin/clang++-12  -I/usr/lib/erlang/include  -march=native -std=gnu++14 -o CMakeFiles/git2_ex.dir/object.cpp.o -c /home/nguyenhoangnam/.local/share/dev/git2_ex/native/libgit2/object.cpp",
+  "file": "/home/nguyenhoangnam/.local/share/dev/git2_ex/native/libgit2/object.cpp"
+},
+{
+  "directory": "/home/nguyenhoangnam/.local/share/dev/git2_ex/native/libgit2",
+  "command": "/usr/bin/clang++-12  -I/usr/lib/erlang/include  -march=native -std=gnu++14 -o CMakeFiles/git2_ex.dir/blob.cpp.o -c /home/nguyenhoangnam/.local/share/dev/git2_ex/native/libgit2/blob.cpp",
+  "file": "/home/nguyenhoangnam/.local/share/dev/git2_ex/native/libgit2/blob.cpp"
+}
+]
